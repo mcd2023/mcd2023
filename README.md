@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, ben Bahar Pala
 
-<!--
-**mcd2023/mcd2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Frontend Developer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub İstatistik
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcd2023&show_icons=true)
+
+---
+
+## 📫 İletişim
+- Email: jeofbaharpala@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/bahar-pala-64594287/](https://www.linkedin.com/in/bahar-pala-64594287/)
+
+---
+
+## ⚡ Eğlenceli bilgi
+☕ Kod yazarken kahve = debug hız +50%
