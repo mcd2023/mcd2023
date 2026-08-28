@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Bahar Pala
+# 👋 Hi im  Bahar Pala
 
 🎯 Frontend Developer  
 
@@ -15,5 +15,3 @@
 
 ---
 
-## ⚡ Eğlenceli bilgi
-☕ Kod yazarken kahve = debug hız +50%
